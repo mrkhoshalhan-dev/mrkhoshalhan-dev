@@ -15,11 +15,4 @@ welcome to my page 👋<br><br><br><br>- 🔭 This page is for you to get to kno
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrkhoshalhan-dev&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrkhoshalhan-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
