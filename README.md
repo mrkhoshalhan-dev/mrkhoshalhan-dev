@@ -1,6 +1,7 @@
 # 💫 About Me:
 welcome to my page 👋<br><br><br><br>- 🔭 This page is for you to get to know me better ...<br><br>
 
+My previous page was deleted due to some problem. This is my new page and the projects here are updated
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhadkhoshalhan) 
